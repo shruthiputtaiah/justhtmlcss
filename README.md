@@ -1,2 +1,0 @@
-# justhtmlcss
-first tutorial
